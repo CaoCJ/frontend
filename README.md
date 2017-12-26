@@ -15,8 +15,14 @@
   
   2. HTML & CSS 基本知识 （W3C）
   
-  3. Javascript
+  3. Javascript 基础知识
   
+  4. Javascript 高级用法
+  
+  5. 面向对象
+  
+  6. 基础算法
+  
 # 工具篇
  1. 开发工具  -- VS CODE Studio
  
