@@ -17,3 +17,11 @@
   
   3. Javascript
   
+# 工具篇
+ 1. 开发工具  -- VS CODE Studio
+ 
+ 2. 浏览器   --  google chrome
+ 
+ 3. git
+ 
+ 
