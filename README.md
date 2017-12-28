@@ -16,24 +16,6 @@
   2. HTML & CSS 基本知识 （W3C）
   
   3. Javascript 基础知识
-  
-     -基本语法
-     
-     -数据类型和变量
-     
-     -字符串
-     
-     -数组
-     
-     -对象
-     
-     -条件判断
-     
-     -循环
-     
-     -Map和Set
-     
-     -iterable
      
   4. Javascript 高级用法
   
