@@ -1,0 +1,35 @@
+﻿1. 前端学习路线图谱
+首先我们要学习什么?
+	a. 编程语言: javascript, php/python/perl/Ruby, nodejs..
+	b. 调试工具:   Firebug/Firebug-lite/Web Inspector
+		     YSlow/Smushit
+		    IE DeveloperToolBar/IETester
+		    SuperPreview/JsBeautifier
+		    Fiddler/WireShark/tcpdump
+	c.开发工具: Notepad/Editplus, VS code studio
+		  svn/git
+	d.计算机知识储备: 编译原理、计算机网络，操作系统，算法原理，软件工程，软件测试原理
+	
+	e.前端标准/规范: w3c,dom,bom,xml.json,jsonp,html5,css3,ecmascript3,ecmascript5
+			commonJS,AMD http1.1	
+	
+	f.性能: webpageTest, Showslow,YSlow,34Rule
+		PageSpeed,HttpWatch, DynaTrace's Ajax 
+
+	g.编程知识储备 ： 数据结构，面向对象，切面编程，函数世编程，javascript设计模式，javascript编程模式
+
+	h.浏览器兼容性: ie6/7/8/9,firefox,chrome,opera,safari
+
+	i.前端框架/库: jquery/yui2/yui3, prototype/mootools/ExtJS, Smarty/Django/Zend, 前端测试，前端mvc
+
+	j.开发流程/部署:  JSLint/CSSLint/YUICompressor, JSMin/TPacker-minifier, Ant/Make, JSDoc, YUIDoc, LAMP
+
+	k.软技能: 知识管理/总结分享, 沟通技巧/团队开发/需求管理/PM,代码模块化开发/代码版本管理，交互设计/可用性/可访问性知识
+
+	l.安全: csrf/xss, adsafe/caja/fbjs/sandbox
+
+	m.移动终端: jquerymobile/html5/css3, iphone/ipad/ios/andriod, responsive ui design
+
+	n.前沿技术会议， 
+
+	o.Web服务: YQL/Company Open plaform, App Engine/Cloud, Google Opoen API/Github
